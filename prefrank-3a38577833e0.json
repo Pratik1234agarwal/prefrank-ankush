@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "prefrank",
+  "private_key_id": "3a38577833e00839a6236bd185e03593e4e3a041",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCiPNNBDsFKJCrA\nd8+WNukjIIC0hxcr8BfBv6rHiWINUfeOmTvQF3FmYPM1pIQsHQ/nTMGwqe8HGgQW\n5hL/ILD1Nub1y9VXrG8lPDFT0A/QsdFJT1HjrczkuK8/jMJjP9auuGPK6wSpZqYz\n/Fe4WLGHcyeV2FR0DXRIIH7jKtaUzk97BrDK46B9SqggtqdD7TKCLU/SgGMygxu/\nn6iU4ujwnJzZknpJYrql9gDUNklYMe3xTbY7PAtK3hDcc0g6jbnFTlClO0hQDitc\naijASaZ1Xxj4fNa8eq+sJAa4AFRNHuQI1Hp8M8dOHBpznUdfSa0Yf5xv5AYApZ1Q\nAjJdA63bAgMBAAECggEAO90y3Hor04ZF6jArfpOzch0/sJ16bOGSepEVXLxyXFTn\nAozDV9UWqH7Ur3INvVNZ93DItb32r8mnQaXS06ZF9a21CnSUu92qQ3STBQislUbP\n4XutzVPn22vUaqAvaDz5pA3w8MLIvRNd96fA3IqJs1/H9xBUlWATjLvE5mD7vftN\n24Uc5Kshc02hK27qi6YhIge2kLstW3fFNzZUyr2xvKamNCSonvXGAio2y1NKviIg\n+FKqpByfD8ngw3t5ZRyNqyj0nu7kz/FbfECMsVixvJq0TZk9d0+TBf9PlDrLgVic\nYkGsvKArxAwKBjDLuvnhW4q6h3In2xikDeGgM+3mWQKBgQDcFHdjUQoEKqEG0iem\nlASRXn1dfSV2T928Z6ulm32nmh5hoJJqqXrYVfp0PzreZddvTYx2fykbSISkXA3w\nYigkWdk8B24KKq7v+eGUwrwM8o8sD+c2gpttmSfWZWWMt+OcxC1Qtihp2WAFL3Bs\nSufIwVY+ZFehx2abc69nCljgeQKBgQC8t4ywU54rBRS/HI8pZUOHpsm7xzepcHev\nlj857niC/rKqidUWx5V4lsqHw8xrdKOJxChehCvCoJIgym7Zz47TDNeXqew4d95C\n7oI80H/lHT5swSUvKPMemAdNrXz6IWFvDWnqvuT4XcqPFDNbRRqjYnNpXCDb+3XB\n4KrJGsKz8wKBgG3LDBCRIlUXy0Oy3jMdTvYS1KoqP+E5UN6oPZqd6t8NZTDBQapS\nqMV6hzstPDotRn/xiSyonaJN2FaC0jVlUq9n35cyAbSyvJld6Sskx1oSPFj4ChpI\nqC/SI2yzIylDqBrSR+UnKxw7ZMrRct2jtOSTh2oS9yDvcIIHAa9/Gv3JAoGARPz8\nq4EF80gaO3sfQszIEREB8mlzibeZqVDNsEnjOFAP1JQql/dCRyEozNThJ+8t0bEp\n6NN8g9vbT61xNKLR3Yl2TvVJa6M2V1WFuuGlv4YfSfaZt1HK/sYo9VaUt4P4cHaA\n39YFMl5nLEMAOz9Z65yUAFIzmPemJsgQ5w+nWc0CgYEAqLvsw7b2lBa0PAxd5joN\nhPKwgwL0OF0n9iGnWIpCObJIyLynfL7IlrQV6hOUk8lW0h+DyfGIaQYUueq/ssxX\nOFKQ6e/BybVbwKhapvqB8VZvxK1wfhJvYU8Wl+TV4O6SicLXuJHFN2ahdn0yGxq7\nu4hTEseroObkABT/hZ+H/fo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "prefrank-user-info@prefrank.iam.gserviceaccount.com",
+  "client_id": "106505055841119742933",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/prefrank-user-info%40prefrank.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
