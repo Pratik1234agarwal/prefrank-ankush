@@ -258,6 +258,11 @@ def hello():
    print("Testing route working")
    return 'hello'
 
+@app.route('/',methods=['GET'])
+def hello():
+   print("Testing route working")
+   return 'hello from main'
+
 if __name__ == '__main__':
     app.run(port=5001,debug=False)  # Change 5001 to any available port number
 
