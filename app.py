@@ -253,6 +253,11 @@ def generate_html():
     #     file.write(user_info)
     return jsonify(html_content=html_content)
 
+@app.route('/test',methods=['GET'])
+def hello():
+   print("Testing route working")
+   return 'hello'
+
 if __name__ == '__main__':
     app.run(port=5001,debug=False)  # Change 5001 to any available port number
 
