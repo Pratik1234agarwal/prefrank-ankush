@@ -1,0 +1,7 @@
+Flask
+pandas
+numpy
+Pillow
+flask-cors
+gspread
+oauth2client
