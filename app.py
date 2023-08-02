@@ -259,7 +259,7 @@ def hello():
    return 'hello'
 
 @app.route('/',methods=['GET'])
-def hello_main():
+def homepage():
    print("Testing route working")
    return 'hello from main'
 
